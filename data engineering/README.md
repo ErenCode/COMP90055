@@ -38,6 +38,8 @@
 * extract_tweet2linchu.py: 
   Extract user id and geographic location to prepare for downstream population prediction
 
-
+### one row of test data
+* one_row_of_test_data: 
+  This is a sample of test data, which can be used for model prediction.
 
 
