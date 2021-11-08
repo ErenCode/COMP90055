@@ -41,5 +41,9 @@
 ### one row of test data
 * one_row_of_test_data: 
   This is a sample of test data, which can be used for model prediction.
+  
+### train data
+* train_data: 
+  This is the train data, which were used for model training.
 
 
